@@ -38,8 +38,7 @@ const Hero = () => {
             <p className='font-montserrat
             text-slate-gray text-lg leading-8 mt-6 mb-10
             sm:max-w-sm
-            '>Check new arrivals and drip available in
-                our awesome Nike collection
+            '>Drippy Nike Shoes
             </p>
             <Button label="Shop Now" iconURL={arrowRight}/>
             <div className='flex justify-starts items-starts
